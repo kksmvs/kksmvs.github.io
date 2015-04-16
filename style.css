@@ -339,7 +339,7 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-    margin-bottom: 75px;
+    margin-bottom: 50px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
@@ -555,7 +555,7 @@ section h3.section-subheading {
     }
 
     .timeline>li {
-        margin-bottom: 100px;
+        margin-bottom: 50px;
         min-height: 100px;
     }
 
@@ -795,6 +795,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
+	text-align: left;
 }
 
 .portfolio-modal .modal-content p.item-intro {
